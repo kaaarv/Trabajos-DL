@@ -1,4 +1,4 @@
-# Nombre del proyecto
+# Tutorial Seccion 3
 
 ## 1. Abreviaturas y definiciones
 - **FPGA**: Field Programmable Gate Arrays
@@ -6,39 +6,32 @@
 ## 2. Referencias
 [0] David Harris y Sarah Harris. *Digital Design and Computer Architecture. RISC-V Edition.* Morgan Kaufmann, 2022. ISBN: 978-0-12-820064-3
 
-## 3. Desarrollo
+#### Testbench
+![Descripción de la Imagen](Imagenes/sim.png)
 
-### 3.0 Descripción general del sistema
-
-### 3.1 Módulo 1
-#### 1. Encabezado del módulo
-```SystemVerilog
-module mi_modulo(
-    input logic     entrada_i,      
-    output logic    salida_i 
-    );
-```
-#### 2. Parámetros
-- Lista de parámetros
-
-#### 3. Entradas y salidas:
-- `entrada_i`: descripción de la entrada
-- `salida_o`: descripción de la salida
-
-#### 4. Criterios de diseño
-Diagramas, texto explicativo...
-
-#### 5. Testbench
-Descripción y resultados de las pruebas hechas
-
-### Otros modulos
-- agregar informacion siguiendo el ejemplo anterior.
+### Modulos
+![Descripción de la Imagen](Imagenes/module.png)
 
 
-## 4. Consumo de recursos
+## Pruebas
+Se realizó el "make synth"
+![Descripción de la Imagen](Imagenes/synth.png)
+
+Se realizó el "make pnr"
+![Descripción de la Imagen](Imagenes/pnr.png)
+
+Se realizó el "make wv"
+![Descripción de la Imagen](Imagenes/wv.png)
+
+
+Se realizó el "make test"
+![Descripción de la Imagen](Imagenes/test.png)
+
+Se realizó el "make bitstream"
+![Descripción de la Imagen](Imagenes/bitstream.png)
+
+
+
+
 
 ## 5. Problemas encontrados durante el proyecto
-
-## Apendices:
-### Apendice 1:
-texto, imágen, etc
