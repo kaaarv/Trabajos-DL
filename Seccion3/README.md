@@ -35,3 +35,4 @@ Se realizó el "make bitstream"
 
 
 ## 5. Problemas encontrados durante el proyecto
+No se presentaron
