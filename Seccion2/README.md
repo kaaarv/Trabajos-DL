@@ -18,7 +18,7 @@ Se realizó el "make pnr"
 
 
 Se realizó el "make bitstream"
-![Descripción de la Imagen](Imagenes/bistream.png)
+![Descripción de la Imagen](Imagenes/bitstream.png)
 
 Se realizó el "make all"
 ![Descripción de la Imagen](Imagenes/all{.png)
