@@ -19,5 +19,5 @@ Se realizó el "make test"
 
 
 
-## 5. Problemas encontrados durante el proyecto
+## Problemas encontrados durante el proyecto
 No se presentaron
