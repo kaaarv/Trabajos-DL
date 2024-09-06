@@ -12,7 +12,7 @@ Acontinuacion se presenta la solución de una tarea de puntos extra, la cual con
 
 ## Pruebas
 Se realizó el "make test"
-![Descripción de la Imagen](Imagenes/test.png)
+![Descripción de la Imagen](imagenes/test.png)
 
 
 
